@@ -1,6 +1,6 @@
 /**
  * 	순열 Permutation
- * @author multicampus
+ *
  *
  */
 public class 순열 {
