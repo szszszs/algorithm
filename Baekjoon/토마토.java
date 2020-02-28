@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-class Åä¸¶Åä {
+class í† ë§ˆí†  {
 	static int M, N, DAY = 0;
 	static int[][] map, dir = { { 0, 1 }, { 1, 0 }, { -1, 0 }, { 0, -1 } };
 	static boolean[][] visited;
@@ -76,6 +76,6 @@ class Åä¸¶Åä {
 }// end of class
 
 
-//2Â÷¿ø ¹è¿­ - isInside
-//4¹æ
-//ÃÖ¼Ò ÀÏ¼ö- BFS ,Queue
+//2ì°¨ì› ë°°ì—´ - isInside
+//4ë°©
+//ìµœì†Œ ì¼ìˆ˜- BFS ,Queue
