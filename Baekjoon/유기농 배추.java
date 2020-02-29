@@ -21,7 +21,7 @@ public class 유기농배추 {
 				int x = sc.nextInt();
 				int y = sc.nextInt();
 				map[x][y] = 1;
-			} // end of input
+			} // end of input 
 
 //			for (int i = 0; i < N; i++) {
 //				System.out.println(Arrays.toString(map[i]));
