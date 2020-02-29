@@ -1,8 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-//유기농 배추
-public class Main {
+public class 유기농배추 {
 	static int T, M, N, K, count = 0;
 	static int[][] map, dir = { { 0, 1 }, { 1, 0 }, { -1, 0 }, { 0, -1 } };
 	static boolean[][] visited;
